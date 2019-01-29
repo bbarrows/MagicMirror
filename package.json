@@ -67,6 +67,7 @@
     "iconv-lite": "latest",
     "mocha-logger": "^1.0.6",
     "moment": "latest",
+    "python-shell": "^1.0.7",
     "request": "^2.87.0",
     "rrule-alt": "^2.2.8",
     "simple-git": "^1.85.0",
